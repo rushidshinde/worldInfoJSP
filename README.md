@@ -7,5 +7,5 @@ You can easily build the code directly from within your IDE of choice (I'm perso
 
 First of all, you'll need an application server. For this guide, I'll assume you've installed Apache Tomcat® (for a guide on doing so, please refer to Apache Tomcat®'s get started guide).
 
-you have to import this project to your IDE and run it on the server. Once you run this project on the server it will open in a web browser. available at 
-[http://localhost:8080/WorldInfoCrudJSP/](http://localhost:8080/WorldInfoCrudJSP/)
+you have to import this project to your IDE and run it on the server. Once you run this project on the server it will open in a web browser. available
+[here](http://localhost:8080/WorldInfoCrudJSP/)
